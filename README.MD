@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ### 2. 객체 탐지용 가중치
 
-- [yolov7.pt]("https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt")
+- [yolov7.pt](https://drive.google.com/file/d/1GeUhf_MHBBcEPyZf9Cg95kR1rMpcqkIA/view?usp=share_link)
 - [traced_model.pt](https://drive.google.com/file/d/1lEgiWru9c53Rtin3NbeBRJ0Nw9o3NY4U/view?usp=share_link)
 
 ### 3. 실행
