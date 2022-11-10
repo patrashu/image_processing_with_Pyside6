@@ -5,6 +5,8 @@
 ```
 git clone https://github.com/patrashu/image_processing_with_Pyside6.git
 cd image_processing_with_Pyside6
+conda create -n qt python=3.8
+conda activate qt
 pip install -r requirements.txt
 ```
 

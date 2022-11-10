@@ -17,3 +17,4 @@ ipython  # interactive notebook
 psutil  # system utilization
 thop  # FLOPs computation
 mediapipe
+validators
