@@ -1,7 +1,7 @@
 # Pyside6를 활용한 이미지 처리기
 
 <div align="center">
-    <h2>Stack</h2>
+    <h3>Stack</h3>
     <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
